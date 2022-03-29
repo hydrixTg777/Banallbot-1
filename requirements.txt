@@ -3,3 +3,4 @@ tgcrypto
 aiofiles
 pyromod
 python-dotenv
+sqlalchemy

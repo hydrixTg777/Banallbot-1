@@ -6,3 +6,4 @@ python-dotenv
 sqlalchemy
 sqlalchemy-json
 sqlalchemy==1.4.32
+psycopg2
